@@ -239,7 +239,7 @@ class CarRentalSystem {
     }
 
 }
-public class Main{
+class Main{
     public static void main(String[] args) {
         CarRentalSystem rentalSystem = new CarRentalSystem();
 
